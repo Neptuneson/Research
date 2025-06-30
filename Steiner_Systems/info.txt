@@ -1,0 +1,8 @@
+This folder contains the text file for Steiner Systems
+
+A Steiner system with parameters t, k, n, written S(t,k,n), 
+is an n-element set S together with a set of k-element subsets of S (called blocks)
+with the property that each t-element subset of S is contained in exactly one block. (wikipedia)
+
+more info on steiner systems at https://en.wikipedia.org/wiki/Steiner_system
+and https://aeb.win.tue.nl/graphs/S.html
