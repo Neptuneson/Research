@@ -1,0 +1,10 @@
+This folder contains the text file for Strongly Regular Graphs that are Completly Enumerated
+
+a strongly regular graph (SRG) is a regular graph G = (V, E) with v vertices and 
+degree k such that for some given integers  λ, μ such that
+every two adjacent vertices have λ common neighbours, and
+every two non-adjacent vertices have μ common neighbours
+Denoted as (v,k,λ,μ).
+
+more info on strongly regular graphs at https://en.wikipedia.org/wiki/Strongly_regular_graph
+and https://aeb.win.tue.nl/graphs/srg/srgtab.html
